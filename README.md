@@ -1,6 +1,6 @@
-<h1 align="center">🌏 Bhoomi - A Crop Based Management System</h1>
+<h1 align="center">KisanPragati: Empowering Farmers with AI driven Insights</h1>
   <br>
-Welcome to Bhoomi! 🧑‍🌾🌱 This powerful tool integrates a comprehensive crop management system to boost your agricultural productivity and profitability.  <br>
+Welcome to KisanPragati! 🧑‍🌾🌱 This powerful tool integrates a comprehensive crop management system to boost your agricultural productivity and profitability.  <br>
 <br>
 
 <h2>Features of Application: </h2>  <br>
@@ -35,7 +35,7 @@ Welcome to Bhoomi! 🧑‍🌾🌱 This powerful tool integrates a comprehensive
 
 
 <h2>Backend</h2>
-Explore the backend code for Bhoomi:
+Explore the backend code for KisanPragati:
 
 🔗 **GitHub Link:** [Bhoomi-Backend](https://github.com/deepakbaligar-83/Bhoomi-Backend.git)
 
