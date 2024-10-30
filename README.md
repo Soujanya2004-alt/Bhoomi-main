@@ -28,16 +28,16 @@ Welcome to KisanPragati! 🧑‍🌾🌱 This powerful tool integrates a compreh
 
 <h2>Team</h2>
 
-- [Deepak Baligar](https://github.com/deepakbaligar-83)<br>
-- [Saisamarth Udikeri](https://github.com/Saisamarth21)<br>
-- [Guruprasad Pattar](https://github.com/Guruprasad006)
+- [Shivani T C](https://github.com/shivanitc1234)<br>
+- [](https://github.com/)<br>
+  
 
 
 
 <h2>Backend</h2>
 Explore the backend code for KisanPragati:
 
-🔗 **GitHub Link:** [Bhoomi-Backend](https://github.com/deepakbaligar-83/Bhoomi-Backend.git)
+🔗 **GitHub Link:** [Bhoomi-Backend](https://github.com/shivanitc1234/Bhoomi-Backend.git)
 
 
 
